@@ -10,15 +10,16 @@
 
 **2) Quantification**
 
-**3) Embedding Generation (BiomedCLIP)**
+**3) Embeddings Generation (BiomedCLIP)**
 
-**4) Retrival methods & Evaluation:**
+**4) Retrieval methods & Evaluation:**
 
-  - (a) **Slice-based Retrieval:** Method-1-Slice-based-Retrieval.ipynb (described in Section 4.1)
+  - (a) **Slice-based Retrieval:** [Method-1-Slice-based-Retrieval.ipynb](https://github.com/abachaa/3D-MIR/blob/main/Code/Retrieval-Methods-and-Evaluation/Method-1-Slice-based-Retrieval.ipynb) (described in Section 4.1)
   
-  - (b) **Volume-based Retrieval:** Method-2-Volume-based-Retrieval.ipynb (described in Section 4.2)
+  - (b) **Volume-based Retrieval:** [Method-2-Volume-based-Retrieval.ipynb](https://github.com/abachaa/3D-MIR/blob/main/Code/Retrieval-Methods-and-Evaluation/Method-2-Volume-based-Retrieval.ipynb) (described in Section 4.2)
   
-  - (c) **Multi-modal Retrieval:** Method-3-Multimodal-Retrieval.ipynb (described in Section 4.3)
+  - (c) **Multi-modal Retrieval:** [Method-3-Multimodal-Retrieval.ipynb](https://github.com/abachaa/3D-MIR/blob/main/Code/Retrieval-Methods-and-Evaluation/Method-3-Multimodal-Retrieval.ipynb) (described in Section 4.3)
+    and [GPT-4-based captions](https://github.com/abachaa/3D-MIR/tree/main/Code/Retrieval-Methods-and-Evaluation/msd_gpt4_captions)
 
 <img src="https://github.com/abachaa/3D-MIR/blob/main/3d-image-search-methods.png" width="780"/> 
   
