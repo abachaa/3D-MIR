@@ -12,6 +12,8 @@
 
 **3) Embeddings Generation (BiomedCLIP)**
 
+- [Generate_BiomedCLIP_Embeddings.ipynb](https://github.com/abachaa/3D-MIR/blob/main/Code/EmbeddingsGeneration/Generate_BiomedCLIP_Embeddings.ipynb)
+
 **4) Retrieval Methods & Evaluation:**
 
   - (a) **Slice-based Retrieval:** [Method-1-Slice-based-Retrieval.ipynb](https://github.com/abachaa/3D-MIR/blob/main/Code/Retrieval-Methods-and-Evaluation/Method-1-Slice-based-Retrieval.ipynb) (described in Section 4.1)
