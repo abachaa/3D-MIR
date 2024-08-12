@@ -5,6 +5,7 @@
 **Data:**
 
 - **Input Data:** We use [Medical Segmentation Decathlon](http://medicaldecathlon.com/) corresponding to four organs: Colon, Liver, Lung and Pancreas.
+- Training/test splits: https://github.com/abachaa/3D-MIR/tree/main/Data 
 
 **Code:**
 
