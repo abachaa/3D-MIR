@@ -48,8 +48,8 @@
 
 ## <h2>Related Resources</h2>
 
-* Blog post on 3D image retrieval using the MedImageInsight foundation model: https://aka.ms/3DImageSearch
-* Jupyter Notebook available in the Microsoft healthcareai-examples GitHub repository: http://aka.ms/healthcare-ai-examples-mi2-3d-image-search 
+* **Blog post:** An overview of the 3D image retrieval pipeline built with the MedImageInsight foundation model, including volumetric image embedding generation, feature indexing, and similarity search: https://aka.ms/3DImageSearch 
+* **Jupyter notebook:** An end-to-end implementation demonstrating 3D medical image embedding extraction with MedImageInsight, vector index construction, and semantic image retrieval. Available in the Microsoft healthcareai-examples GitHub repository: https://aka.ms/healthcare-ai-examples-mi2-3d-image-search 
 
 
 ## <h2>License</h2>
