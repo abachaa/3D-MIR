@@ -1,7 +1,7 @@
 # 3D-MIR: Benchmarks and Methods for 3D Medical Image Retrieval
 
 
-<a href="url"><img src="https://github.com/abachaa/3D-MIR/blob/main/3d-image-search-results.png" align="center" height="450" width="550" ></a>
+<a href="url"><img src="https://github.com/abachaa/3D-MIR/blob/main/3d-image-search-results.png" align="center" width="800" ></a>
 
 
 > **Paper:** [Benchmarks and methods for 3D medical image retrieval](https://www.nature.com/articles/s41598-026-38473-z) - Ben Abacha, A., Santamaría-Pang, A., Lee, H.H. et al. Sci Rep 16, 21016 (2026). https://doi.org/10.1038/s41598-026-38473-z 
@@ -28,7 +28,7 @@
 
 - (d) **Lung Quantification:** [msd_lung_2D_3D_metrics_extraction.ipynb](./Code/Image-Processing-and-Quantification/msd_lung_2D_3D_metrics_extraction.ipynb)
 
-<img src="./Code/Image-Processing-and-Quantification/3dmir.pipeline.png" alt="Image Quantification Pipeline" width="500"/>
+<img src="./Code/Image-Processing-and-Quantification/3dmir.pipeline.png" alt="Image Quantification Pipeline" width="800"/>
 
 **3) Embeddings Generation (BiomedCLIP)**
 
@@ -43,7 +43,7 @@
   - (c) **Multi-modal Retrieval:** [Method-3-Multimodal-Retrieval.ipynb](./Code/Retrieval-Methods-and-Evaluation/Method-3-Multimodal-Retrieval.ipynb) (described in Section 4.3)
     and [GPT-4-based captions](https://github.com/abachaa/3D-MIR/tree/main/Code/Retrieval-Methods-and-Evaluation/msd_gpt4_captions)
 
-<img src="./3d-image-search-methods.png" alt="3D Image Search Methods" width="500"/>
+<img src="./3d-image-search-methods.png" alt="3D Image Search Methods" width="800"/>
 
 
 ## <h2>Related Resources</h2>
